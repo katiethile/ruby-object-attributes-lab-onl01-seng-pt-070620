@@ -7,3 +7,12 @@ end
     @name 
   end 
 end 
+
+  def breed=(dogs_breed)
+    @breed = Beagle
+  end 
+  
+  def breed
+    @breed
+  end 
+end 
