@@ -6,7 +6,6 @@ end
   def name 
     @name 
   end 
-end 
 
   def breed=(dogs_breed)
     @breed = "Beagle"
